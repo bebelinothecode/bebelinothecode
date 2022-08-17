@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bebelinothecode
+- 👋 Hi, I’m Isaac Dickson
 - 👀 I’m interested in building software,artificial intelligence,machine learning and many more.
 - 🌱 I’m currently learning  flutter and laravel 
 - 💞️ I’m looking to collaborate on building software(flutter,laravel) and machine learning
