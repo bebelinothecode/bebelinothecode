@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaac Dickson
 - 👀 I’m interested in building software,artificial intelligence,machine learning and many more.
-- 🌱 I’m currently learning  flutter and laravel 
-- 💞️ I’m looking to collaborate on building software(flutter,laravel) and machine learning
+- 🌱 I’m currently learning  flutter and NodeJS 
+- 💞️ I’m looking to collaborate on building software(flutter,NodeJs).
 - 📫 How to reach me email: dicksonisaac101@gmail.com
 
 <!---
