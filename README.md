@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Dickson
 - 👀 I’m interested in building software,artificial intelligence,machine learning and many more.
-- 🌱 Flutter and NodeJS 
+- 🌱 Dart (Flutter) and Javascript (NodeJS) 
 - 💞️ I’m looking to collaborate on building software(flutter,NodeJs).
 - 📫 How to reach me email: dicksonisaac101@gmail.com
 
