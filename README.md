@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Isaac Dickson
 - 👀 I’m interested in building software,artificial intelligence,machine learning and many more.
-- 🌱 Dart (Flutter) and Javascript (NodeJS) 
-- Currently learning golang 
-- 💞️ I’m looking to collaborate on building software(flutter,NodeJs).
+- 🌱 Golang/Python/NodeJs
+- 💞️ I’m looking to collaborate on building software(Golang, Python, NodeJs).
 - 📫 How to reach me email: dicksonisaac101@gmail.com
 
 <!---
