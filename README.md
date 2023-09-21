@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isaac Dickson
+- 👋 Hi, I’m Isaac Dickson (A backend engineer)
 - 👀 I’m interested in building software,artificial intelligence,machine learning and many more.
 - 🌱 Golang/Python/NodeJs
 - 💞️ I’m looking to collaborate on building software(Golang, Python, NodeJs).
